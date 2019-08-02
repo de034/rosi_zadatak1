@@ -108,7 +108,7 @@ public class Fajlovi {
             if (!path.exists() && !path.isDirectory()) {
                  path.mkdir();
             }
-        }
+        }  
         
         scan.close();
     }
