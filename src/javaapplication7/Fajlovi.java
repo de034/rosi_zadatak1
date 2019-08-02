@@ -26,7 +26,8 @@ public class Fajlovi {
     public Fajlovi() {
         
     }
- 
+	// novi fajlovi
+	
     public void SadrzajDirektorijuma() {
         System.out.println("Unesi putanju do foldera: ");
         Scanner scan = new Scanner(System.in);
